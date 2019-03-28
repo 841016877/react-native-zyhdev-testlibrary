@@ -1,0 +1,56 @@
+
+{
+  "name": "react-native-zyhdev-testlibrary",
+  "version": "1.0.0",
+  "description": "测试RN组件npm发布库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "ui",
+    "android",
+    "component",
+    "design",
+    "testlibrary"
+  ],
+  "author": {
+    "name": "zhangyonghui",
+    "email": "841016877@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:841016877/react-native-zyhdev-testlibrary.git"
+  },
+  "homepage": "https://github.com/841016877/react-native-zyhdev-testlibrary",
+  "bugs": {"url": "https://github.com/841016877/react-native-zyhdev-testlibrary/issues"},
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "24.1.0",
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "jest": "24.1.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "peerDependencies": {
+    "react-native": "^>=0.57.1"
+  },
+  "jest": {
+    "preset": "react-native",
+    "testPathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  }
+}
