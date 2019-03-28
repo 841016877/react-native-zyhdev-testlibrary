@@ -27,6 +27,9 @@ let styles;
  * 自定义按钮: positiveButton 对应事件positiveCallback, negativeButton 对应事件negativeCallback
  * 内容区域: 默认提供文本和输入框两种类型选择
  * 内容暂时只提供文本,输入框两种类型
+ *
+ *
+ * 测试npm version
  */
 
 export default class AlertDialog extends React.Component {
