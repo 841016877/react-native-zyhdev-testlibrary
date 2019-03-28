@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-zyhdev-testlibrary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "测试RN组件npm发布库",
   "main": "index.js",
   "scripts": {
@@ -29,7 +28,9 @@
     "url": "git@github.com:841016877/react-native-zyhdev-testlibrary.git"
   },
   "homepage": "https://github.com/841016877/react-native-zyhdev-testlibrary",
-  "bugs": {"url": "https://github.com/841016877/react-native-zyhdev-testlibrary/issues"},
+  "bugs": {
+    "url": "https://github.com/841016877/react-native-zyhdev-testlibrary/issues"
+  },
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^7.0.0-bridge.0",
